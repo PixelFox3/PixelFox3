@@ -43,11 +43,11 @@
 
 <p align="center">
   <b>Check out my full work, technical breakdowns, and projects:</b>
-  <br><br>
-  <a href="https://pixelfoxdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
+<br><br>
+<p align="center">
+  <a href="https://pixelfoxdev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp; &nbsp; <a href="https://itch.io/profile/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
+  </p>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 
