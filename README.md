@@ -41,11 +41,11 @@
 
 ┏━ ◢◤ PORTFOLIO ◢◤ ━━━━━━━━━━━━━━┓
 
-<p align="center">
+<p>
   <b>Check out my full work, technical breakdowns, and projects:</b>
 </p>
 <br><br>
-<p align="center">
+<p>
   <a href="https://pixelfoxdev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> &nbsp; &nbsp; <a href="https://itch.io/profile/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"/></a>
   </p>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
